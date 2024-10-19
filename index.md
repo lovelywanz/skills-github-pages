@@ -2,9 +2,6 @@
 title: Welcome to my blog
 ---
 
-**This is a test bold content**
-
-*This is Italic*
 
 # Header level 1
 
